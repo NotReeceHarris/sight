@@ -1,16 +1,23 @@
 
 # Sight
+
 > Ai-powered object classifier, using AI we can calculate the accuracy of an object classification.
 
 
 ## Installation
+
 python 3.10+ or newer is required.
+
 ```bash
 $ git clone https://github.com/NotReeceHarris/Sight.git
+
+$ cd Sight/python 
+
 $ python -m pip install -r requirements.txt
 ```
 
 ## Links
+
 - [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [OpenCV](https://opencv.org/)
 
