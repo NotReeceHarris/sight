@@ -17,4 +17,4 @@ $ python -m pip install -r requirements.txt
 ## Contributing
 Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the [contribution](https://github.com/NotReeceHarris/DiscordMFA/blob/main/contributing.md) guide if you'd like to submit a PR.
 
-Please adhere to this project's [`code_of_conduct.md`](https://github.com/NotReeceHarris/DiscordMFA/blob/main/code_of_conduct.md).
+Please adhere to this project's [`code_of_conduct.md`](https://github.com/NotReeceHarris/Sight/blob/main/CODE_OF_CONDUCT.md).
